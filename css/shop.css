@@ -1,0 +1,106 @@
+.btn-orange{
+  color: #fff;
+  background-color: #F68B00 !important;
+  border-color: #F68B00 !important;
+}
+
+.btn-orange:hover{
+  color: #fff;
+  background-color: #FF4C0A !important;
+  border-color: #FF4C0A !important;
+}
+
+.btn-orange:focus{
+  color: #fff;
+  box-shadow: none;
+}
+
+.number{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2em;
+}
+
+#number{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2em;
+}
+
+.box{
+  width: 100%;
+  position: relative;
+  margin: 0 auto; 
+}
+
+.box-image{
+  position: relative;
+  height: auto;
+  margin: 0 auto;
+}
+
+.box-text{
+  padding: .7em 15px 1.4em;
+  /*padding-top: .7em;
+  padding-bottom: 1.4em;
+  padding-left: 15px;
+  padding-right: 15px;*/
+  position: relative;
+  width: 100%;
+}
+
+.img-thumbnail{
+  border: 0 !important;
+  border-radius: 0 !important;
+  padding: 0.5rem !important;
+}
+
+.text-link:hover{
+text-decoration: none;
+color: #fff;
+}
+
+.show-on-hover{
+position: absolute;
+top: 95%;
+bottom: 0;
+left: 0;
+right: 0;
+text-align: center;
+padding: 0.5em 0;
+opacity: 0;
+transition: 0.5s;
+width: 80%;
+margin: 0 auto;
+}
+
+.box-image:hover .show-on-hover{
+opacity: 1;
+top: 90%; 
+}
+
+.zoomContainer{ z-index: 1051;}
+
+.zoomWindow{ z-index: 1051;}
+
+@media(max-width: 770px)
+{
+  .mx-3{
+    margin-left: 0.5rem !important;
+    margin-right: 0.5rem !important;
+  }
+}
+
+@media(max-width: 550px)
+{
+  .text{
+    font-size: 80%;
+  }
+
+  .number{
+    font-size: 80%;
+  }
+
+  .mx-3{
+    margin-left: 0.5rem !important;
+    margin-right: 0.5rem !important;
+  }
+}

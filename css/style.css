@@ -1,0 +1,251 @@
+:root{
+  --primary: #00dc40;
+  --danger: #a42e1f;
+  --secondary: #52c1ac;
+}
+
+.text-primary{
+  color:var(--primary) !important;
+ }
+.text-secondary{
+  color: var(--secondary) !important;
+}
+
+.btn-secondary{
+  background-color: var(--secondary) !important;
+  border-color: var(--secondary) !important;
+  box-shadow: none;
+}
+.btn-secondary:hover{
+  background-color: #43a190   !important;
+  border-color: #43a190 !important;
+  box-shadow: none;
+}
+
+.btn-primary{
+  background-color: var(--primary) !important;
+  border-color: var(--primary) !important;
+  color: var(--dark);
+  box-shadow: none;
+}
+.btn-primary:hover{
+  background-color: #5bb378 !important;
+  border-color: #5bb378 !important;
+  box-shadow: none;
+}
+
+.btn-primary:focus{
+  box-shadow: none;
+}
+
+.btn-orange{
+  color: #fff;
+  background-color: #F68B00 !important;
+  border-color: #F68B00 !important;
+}
+
+.btn-orange:hover{
+  color: #fff;
+  background-color: #FF4C0A !important;
+  border-color: #FF4C0A !important;
+}
+
+.btn-orange:focus{
+  color: #fff;
+  box-shadow: none;
+}
+
+.btn-black{
+  background-color: #000 !important;
+  border-color: #000 !important;
+  box-shadow: none;
+}
+.btn-black:hover{
+  background-color: rgb(12, 12, 12) !important;
+  border-color: rgb(12, 12, 12) !important;
+  box-shadow: none;
+}
+
+.bg-primary{
+  background-color: var(--primary) !important;
+  color: var(--dark);
+}
+.bg-secondary{
+  background-color: var(--secondary) !important;
+}
+.bg-black{
+  background-color: #000 !important;
+}
+
+.bg-black{
+  background-color: #000 !important;
+}
+
+.bg-pink{
+  background-color: #df2333 !important
+}
+
+.title{
+  font-family: 'Patua One', sans-serif;
+}
+.text{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.border-primary{
+  border-color: var(--primary) !important;
+}
+
+#home-screenshot{
+  background-image: url(https://via.placeholder.com/700x600);
+  background-size: 100%;
+  background-position: initial;
+  background-repeat:no-repeat;
+  height: 100%;
+  width: 100%;
+}
+
+.personas img{
+  max-width: 10rem;
+  /* box-shadow: 0px 5px 5px 0px #adb5bd; */
+}
+
+#carrossel-control:hover{
+  color: var(--primary) !important;
+}
+
+#carrossel-control-partners:hover{
+  color: var(--light) !important;
+}
+
+#bg-team{
+  background-image: url("../IMG/home/bg-team2.jpg");
+  background-size: 100% 100%;
+  background-position: initial;
+  background-repeat:no-repeat;
+  height: auto;
+  z-index: 0;
+}
+
+ #team-img{
+  max-width: 7em;
+  max-height: 7em;
+  min-height: 7em
+  /* box-shadow: 0px 5px 5px 0px #adb5bd; */
+}
+
+#team-mobile-controls{
+  display: none;
+}
+
+#team-mobile-content{
+  display: none;
+}
+
+@media (max-width: 1000px) 
+{
+  #team-desktop-content{
+    display: none;
+  }
+  #team-mobile-content{
+    display: initial;
+  }
+}
+
+@media(max-width: 770px)
+{
+  #team-desktop-controls{
+    display: none;
+  }
+  #team-mobile-controls{
+    display: initial;
+  }
+}
+
+@media(max-width: 550px)
+{
+  #team-desktop-controls{
+    display: none;
+  }
+  #team-mobile-controls{
+    display: initial;
+  }
+}
+
+.parallax {
+  /* background-image: url("https://via.placeh older.com/700x600"); */
+  min-height: 500px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#partners{
+  background-image: url("../IMG/home/grad.jpg");
+}
+
+#personas {
+  /* background-image: url("../IMG/home/grad.jpg"); */
+  background-image: url("../IMG/parallax-personas.jpg")
+}
+
+#_hj-f5b2a1eb-9b07_feedback[data-state="minimized"] 
+{
+    visibility: hidden;
+}
+
+.contact-icon{
+  font-size: 2em;
+}
+
+.mapouter{
+  text-align:right;
+  height:80%;
+  width:100%;
+}
+
+.gmap_canvas {
+  overflow:hidden;
+  background:none !important;
+  height:100%;
+  width:100%;
+}
+
+.img-logo{
+  max-width: 130px;
+}
+
+.footer{
+  height: 50vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5em;
+  color: #f1f1f1;
+  position: fixed;
+  bottom: 0;
+  z-index: -40 ;
+}
+
+.m-footer{
+  margin-bottom: 50vh;
+}
+
+.shadow-footer{
+  box-shadow: 0px 10px 8px #00000054;
+}
+
+.bg-light-opaque{
+  background-color: rgba(255, 255, 255, 0.137);
+}
+
+.fixed-header {
+  width:100%;
+   position:fixed; 
+  top:0px;
+  z-index:50;
+  border-bottom: 1px solid #fff;
+  max-height: 100%;
+}

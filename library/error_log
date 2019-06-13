@@ -1,0 +1,25 @@
+[16-Aug-2018 19:02:25 UTC] PHP Notice:  Undefined variable: email in /home/u460930808/public_html/library/mail1.php on line 18
+[16-Aug-2018 19:02:25 UTC] PHP Notice:  Undefined variable: firstname in /home/u460930808/public_html/library/mail1.php on line 18
+[16-Aug-2018 19:02:25 UTC] PHP Notice:  Undefined variable: firstname in /home/u460930808/public_html/library/mail1.php on line 28
+[16-Aug-2018 19:02:25 UTC] PHP Notice:  Undefined variable: lastname in /home/u460930808/public_html/library/mail1.php on line 28
+[16-Aug-2018 19:02:25 UTC] PHP Notice:  Undefined variable: email in /home/u460930808/public_html/library/mail1.php on line 30
+[16-Aug-2018 19:02:25 UTC] PHP Notice:  Undefined variable: firstname in /home/u460930808/public_html/library/mail1.php on line 33
+[16-Aug-2018 19:02:25 UTC] PHP Notice:  Undefined variable: lastname in /home/u460930808/public_html/library/mail1.php on line 33
+[16-Aug-2018 19:02:28 UTC] PHP Notice:  Undefined variable: email in /home/u460930808/public_html/library/mail1.php on line 18
+[16-Aug-2018 19:02:28 UTC] PHP Notice:  Undefined variable: firstname in /home/u460930808/public_html/library/mail1.php on line 18
+[16-Aug-2018 19:02:28 UTC] PHP Notice:  Undefined variable: firstname in /home/u460930808/public_html/library/mail1.php on line 28
+[16-Aug-2018 19:02:28 UTC] PHP Notice:  Undefined variable: lastname in /home/u460930808/public_html/library/mail1.php on line 28
+[16-Aug-2018 19:02:28 UTC] PHP Notice:  Undefined variable: email in /home/u460930808/public_html/library/mail1.php on line 30
+[16-Aug-2018 19:02:28 UTC] PHP Notice:  Undefined variable: firstname in /home/u460930808/public_html/library/mail1.php on line 33
+[16-Aug-2018 19:02:28 UTC] PHP Notice:  Undefined variable: lastname in /home/u460930808/public_html/library/mail1.php on line 33
+[27-Aug-2018 19:38:49 UTC] PHP Notice:  Undefined variable: firstname in /home/u460930808/public_html/library/mail1.php on line 39
+[27-Aug-2018 19:38:49 UTC] PHP Notice:  Undefined variable: lastname in /home/u460930808/public_html/library/mail1.php on line 39
+[27-Aug-2018 19:38:49 UTC] PHP Notice:  Undefined variable: firstname in /home/u460930808/public_html/library/mail1.php on line 46
+[27-Aug-2018 19:38:49 UTC] PHP Notice:  Undefined variable: lastname in /home/u460930808/public_html/library/mail1.php on line 46
+[05-Sep-2018 17:29:29 UTC] PHP Warning:  Creating default object from empty value in /home/u460930808/public_html/library/mail1.php on line 3
+[05-Sep-2018 17:29:30 UTC] PHP Notice:  Undefined variable: firstname in /home/u460930808/public_html/library/mail1.php on line 56
+[05-Sep-2018 17:29:30 UTC] PHP Notice:  Undefined variable: lastname in /home/u460930808/public_html/library/mail1.php on line 56
+[05-Sep-2018 17:30:22 UTC] PHP Notice:  Undefined variable: firstname in /home/u460930808/public_html/library/mail1.php on line 57
+[05-Sep-2018 17:30:22 UTC] PHP Notice:  Undefined variable: lastname in /home/u460930808/public_html/library/mail1.php on line 57
+[05-Sep-2018 17:36:50 UTC] PHP Notice:  Undefined variable: firstname in /home/u460930808/public_html/library/mail1.php on line 58
+[05-Sep-2018 17:36:50 UTC] PHP Notice:  Undefined variable: lastname in /home/u460930808/public_html/library/mail1.php on line 58

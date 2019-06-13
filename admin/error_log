@@ -1,0 +1,1314 @@
+[15-Aug-2018 20:57:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[15-Aug-2018 20:57:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[15-Aug-2018 21:19:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[15-Aug-2018 21:42:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[15-Aug-2018 22:10:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[16-Aug-2018 13:03:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[16-Aug-2018 14:00:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[16-Aug-2018 14:00:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[16-Aug-2018 14:28:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[16-Aug-2018 14:42:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[16-Aug-2018 15:08:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[16-Aug-2018 18:47:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[16-Aug-2018 18:57:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[16-Aug-2018 19:10:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[16-Aug-2018 19:12:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[16-Aug-2018 19:34:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[16-Aug-2018 21:12:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[17-Aug-2018 14:05:49 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/index.php on line 69
+[17-Aug-2018 14:05:49 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[17-Aug-2018 14:05:49 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 104
+[17-Aug-2018 14:05:49 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 114
+[17-Aug-2018 14:05:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[17-Aug-2018 14:05:49 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 18
+[17-Aug-2018 14:05:49 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 33
+[17-Aug-2018 14:05:49 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 33
+[17-Aug-2018 14:05:49 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 44
+[17-Aug-2018 14:05:49 UTC] PHP Notice:  Undefined variable: d in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 44
+[17-Aug-2018 14:05:49 UTC] PHP Notice:  Undefined variable: email in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 46
+[17-Aug-2018 14:05:49 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[17-Aug-2018 14:05:49 UTC] PHP Notice:  Undefined variable: totalorder in /home/u460930808/public_html/CoolAdmin-master/index.php on line 153
+[17-Aug-2018 14:05:49 UTC] PHP Notice:  Undefined variable: totalpaid in /home/u460930808/public_html/CoolAdmin-master/index.php on line 171
+[17-Aug-2018 14:05:49 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 266
+[17-Aug-2018 14:05:49 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[19-Aug-2018 19:13:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[19-Aug-2018 19:14:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[19-Aug-2018 19:14:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[20-Aug-2018 14:27:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[20-Aug-2018 14:28:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[20-Aug-2018 14:28:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[20-Aug-2018 14:42:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[20-Aug-2018 16:15:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[20-Aug-2018 22:07:53 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/index.php on line 69
+[20-Aug-2018 22:07:53 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[20-Aug-2018 22:07:53 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 104
+[20-Aug-2018 22:07:53 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 114
+[20-Aug-2018 22:07:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[20-Aug-2018 22:07:53 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 18
+[20-Aug-2018 22:07:53 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 33
+[20-Aug-2018 22:07:53 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 33
+[20-Aug-2018 22:07:53 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 44
+[20-Aug-2018 22:07:53 UTC] PHP Notice:  Undefined variable: d in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 44
+[20-Aug-2018 22:07:53 UTC] PHP Notice:  Undefined variable: email in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 46
+[20-Aug-2018 22:07:53 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[20-Aug-2018 22:07:53 UTC] PHP Notice:  Undefined variable: totalorder in /home/u460930808/public_html/CoolAdmin-master/index.php on line 153
+[20-Aug-2018 22:07:53 UTC] PHP Notice:  Undefined variable: totalpaid in /home/u460930808/public_html/CoolAdmin-master/index.php on line 171
+[20-Aug-2018 22:07:53 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 266
+[20-Aug-2018 22:07:53 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[21-Aug-2018 00:43:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 00:44:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 00:45:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 00:52:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 00:52:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 00:52:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 13:47:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 13:49:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 14:56:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 14:56:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 14:57:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 14:57:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 14:58:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 14:58:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 15:07:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 15:11:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 15:34:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 15:41:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 16:18:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 17:04:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 17:14:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 17:39:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 18:23:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 18:23:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 18:23:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 18:23:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 18:24:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 19:03:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 19:03:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 19:22:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 21:01:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 21:08:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 21:10:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[21-Aug-2018 21:16:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[22-Aug-2018 00:07:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[22-Aug-2018 15:56:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[22-Aug-2018 15:56:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[22-Aug-2018 16:15:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[22-Aug-2018 16:53:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[22-Aug-2018 16:53:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[22-Aug-2018 16:53:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 15
+[22-Aug-2018 18:19:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[22-Aug-2018 18:22:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[22-Aug-2018 18:23:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[22-Aug-2018 18:44:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[22-Aug-2018 18:44:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[22-Aug-2018 19:02:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[22-Aug-2018 19:43:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[22-Aug-2018 21:49:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[22-Aug-2018 21:49:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Ds\Vector' not found in /home/u460930808/public_html/CoolAdmin-master/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/u460930808/public_html/CoolAdmin-master/index.php on line 217
+[22-Aug-2018 21:50:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[22-Aug-2018 21:50:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Ds\Vector' not found in /home/u460930808/public_html/CoolAdmin-master/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/u460930808/public_html/CoolAdmin-master/index.php on line 217
+[22-Aug-2018 21:51:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[22-Aug-2018 21:51:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Ds\Vector' not found in /home/u460930808/public_html/CoolAdmin-master/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/u460930808/public_html/CoolAdmin-master/index.php on line 217
+[22-Aug-2018 21:51:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[22-Aug-2018 21:51:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Ds\Vector' not found in /home/u460930808/public_html/CoolAdmin-master/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/u460930808/public_html/CoolAdmin-master/index.php on line 217
+[22-Aug-2018 21:51:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[22-Aug-2018 21:51:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Ds\Vector' not found in /home/u460930808/public_html/CoolAdmin-master/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/u460930808/public_html/CoolAdmin-master/index.php on line 217
+[22-Aug-2018 21:54:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[22-Aug-2018 21:54:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Ds\Vector' not found in /home/u460930808/public_html/CoolAdmin-master/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/u460930808/public_html/CoolAdmin-master/index.php on line 217
+[22-Aug-2018 21:59:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[22-Aug-2018 21:59:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Ds\Vector' not found in /home/u460930808/public_html/CoolAdmin-master/index.php:449
+Stack trace:
+#0 {main}
+  thrown in /home/u460930808/public_html/CoolAdmin-master/index.php on line 449
+[22-Aug-2018 22:02:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[22-Aug-2018 22:02:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Ds\Vector' not found in /home/u460930808/public_html/CoolAdmin-master/index.php:449
+Stack trace:
+#0 {main}
+  thrown in /home/u460930808/public_html/CoolAdmin-master/index.php on line 449
+[22-Aug-2018 22:28:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[22-Aug-2018 22:28:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Ds\Vector' not found in /home/u460930808/public_html/CoolAdmin-master/index.php:449
+Stack trace:
+#0 {main}
+  thrown in /home/u460930808/public_html/CoolAdmin-master/index.php on line 449
+[22-Aug-2018 22:28:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[22-Aug-2018 22:28:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Ds\Vector' not found in /home/u460930808/public_html/CoolAdmin-master/index.php:449
+Stack trace:
+#0 {main}
+  thrown in /home/u460930808/public_html/CoolAdmin-master/index.php on line 449
+[22-Aug-2018 22:34:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[22-Aug-2018 22:34:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Ds\Vector' not found in /home/u460930808/public_html/CoolAdmin-master/index.php:449
+Stack trace:
+#0 {main}
+  thrown in /home/u460930808/public_html/CoolAdmin-master/index.php on line 449
+[22-Aug-2018 22:35:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[22-Aug-2018 22:35:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Ds\Vector' not found in /home/u460930808/public_html/CoolAdmin-master/index.php:449
+Stack trace:
+#0 {main}
+  thrown in /home/u460930808/public_html/CoolAdmin-master/index.php on line 449
+[22-Aug-2018 22:36:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[22-Aug-2018 22:36:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Ds\Vector' not found in /home/u460930808/public_html/CoolAdmin-master/index.php:449
+Stack trace:
+#0 {main}
+  thrown in /home/u460930808/public_html/CoolAdmin-master/index.php on line 449
+[22-Aug-2018 22:42:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[22-Aug-2018 22:42:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Ds\Vector' not found in /home/u460930808/public_html/CoolAdmin-master/index.php:449
+Stack trace:
+#0 {main}
+  thrown in /home/u460930808/public_html/CoolAdmin-master/index.php on line 449
+[22-Aug-2018 22:56:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[22-Aug-2018 22:58:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[22-Aug-2018 22:58:27 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[22-Aug-2018 22:58:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[22-Aug-2018 22:58:27 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[22-Aug-2018 22:58:27 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[22-Aug-2018 22:59:37 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[22-Aug-2018 22:59:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[22-Aug-2018 22:59:37 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[22-Aug-2018 22:59:37 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[22-Aug-2018 22:59:41 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[22-Aug-2018 22:59:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[22-Aug-2018 22:59:41 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[22-Aug-2018 22:59:41 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[22-Aug-2018 23:04:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[22-Aug-2018 23:04:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[23-Aug-2018 02:11:28 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[23-Aug-2018 02:11:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[23-Aug-2018 02:11:28 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[23-Aug-2018 02:11:28 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[23-Aug-2018 02:11:53 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[23-Aug-2018 02:11:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[23-Aug-2018 02:11:53 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[23-Aug-2018 02:11:53 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[23-Aug-2018 02:12:10 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[23-Aug-2018 02:12:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[23-Aug-2018 02:12:10 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[23-Aug-2018 02:12:10 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[23-Aug-2018 02:13:45 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[23-Aug-2018 02:13:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[23-Aug-2018 02:13:45 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[23-Aug-2018 02:13:45 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[23-Aug-2018 11:06:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[23-Aug-2018 11:06:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[23-Aug-2018 11:07:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[23-Aug-2018 11:08:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[23-Aug-2018 13:11:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[23-Aug-2018 13:26:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[23-Aug-2018 14:20:58 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/index.php on line 69
+[23-Aug-2018 14:20:58 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[23-Aug-2018 14:20:58 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 104
+[23-Aug-2018 14:20:58 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 114
+[23-Aug-2018 14:20:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[23-Aug-2018 14:20:58 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 26
+[23-Aug-2018 14:20:58 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 41
+[23-Aug-2018 14:20:58 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 41
+[23-Aug-2018 14:20:58 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 52
+[23-Aug-2018 14:20:58 UTC] PHP Notice:  Undefined variable: d in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 52
+[23-Aug-2018 14:20:58 UTC] PHP Notice:  Undefined variable: email in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 54
+[23-Aug-2018 14:20:58 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[23-Aug-2018 14:20:58 UTC] PHP Notice:  Undefined variable: totalorder in /home/u460930808/public_html/CoolAdmin-master/index.php on line 179
+[23-Aug-2018 14:20:58 UTC] PHP Notice:  Undefined variable: totalpaid in /home/u460930808/public_html/CoolAdmin-master/index.php on line 197
+[23-Aug-2018 14:20:58 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[23-Aug-2018 14:20:58 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 320
+[23-Aug-2018 14:24:59 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/index.php on line 69
+[23-Aug-2018 14:24:59 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[23-Aug-2018 14:24:59 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 104
+[23-Aug-2018 14:24:59 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 114
+[23-Aug-2018 14:24:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[23-Aug-2018 14:24:59 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 26
+[23-Aug-2018 14:24:59 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 41
+[23-Aug-2018 14:24:59 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 41
+[23-Aug-2018 14:24:59 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 52
+[23-Aug-2018 14:24:59 UTC] PHP Notice:  Undefined variable: d in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 52
+[23-Aug-2018 14:24:59 UTC] PHP Notice:  Undefined variable: email in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 54
+[23-Aug-2018 14:24:59 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[23-Aug-2018 14:24:59 UTC] PHP Notice:  Undefined variable: totalorder in /home/u460930808/public_html/CoolAdmin-master/index.php on line 179
+[23-Aug-2018 14:24:59 UTC] PHP Notice:  Undefined variable: totalpaid in /home/u460930808/public_html/CoolAdmin-master/index.php on line 197
+[23-Aug-2018 14:24:59 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[23-Aug-2018 14:24:59 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 320
+[23-Aug-2018 14:42:14 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[23-Aug-2018 14:42:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[23-Aug-2018 14:42:14 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[23-Aug-2018 14:42:14 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[23-Aug-2018 14:42:43 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[23-Aug-2018 14:42:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[23-Aug-2018 14:42:43 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[23-Aug-2018 14:42:43 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[23-Aug-2018 14:42:56 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[23-Aug-2018 14:42:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[23-Aug-2018 14:42:56 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[23-Aug-2018 14:42:56 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[23-Aug-2018 14:43:06 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[23-Aug-2018 14:43:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[23-Aug-2018 14:43:06 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[23-Aug-2018 14:43:06 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[23-Aug-2018 15:53:01 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[23-Aug-2018 15:53:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[23-Aug-2018 15:53:01 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[23-Aug-2018 15:53:01 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[23-Aug-2018 15:53:05 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[23-Aug-2018 15:53:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[23-Aug-2018 15:53:05 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[23-Aug-2018 15:53:05 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[23-Aug-2018 15:53:11 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[23-Aug-2018 15:53:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[23-Aug-2018 15:53:11 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[23-Aug-2018 15:53:11 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[23-Aug-2018 15:53:16 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[23-Aug-2018 15:53:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[23-Aug-2018 15:53:16 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[23-Aug-2018 15:53:16 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[23-Aug-2018 15:53:18 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/chart.php on line 8
+[23-Aug-2018 15:53:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[23-Aug-2018 15:58:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[23-Aug-2018 16:56:42 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[23-Aug-2018 16:56:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[23-Aug-2018 16:56:42 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[23-Aug-2018 16:56:42 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[23-Aug-2018 18:49:59 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[23-Aug-2018 18:49:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[23-Aug-2018 18:49:59 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[23-Aug-2018 18:49:59 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[23-Aug-2018 19:28:04 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[23-Aug-2018 19:28:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[23-Aug-2018 19:28:04 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[23-Aug-2018 19:28:04 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[23-Aug-2018 19:30:49 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[23-Aug-2018 19:30:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[23-Aug-2018 19:30:49 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[23-Aug-2018 19:30:49 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[23-Aug-2018 23:31:31 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[23-Aug-2018 23:31:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[23-Aug-2018 23:31:31 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[23-Aug-2018 23:31:31 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[23-Aug-2018 23:31:34 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[23-Aug-2018 23:31:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[23-Aug-2018 23:31:34 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[23-Aug-2018 23:31:34 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[24-Aug-2018 00:12:46 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[24-Aug-2018 00:12:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 00:12:46 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[24-Aug-2018 00:12:46 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[24-Aug-2018 00:17:55 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[24-Aug-2018 00:17:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 00:17:55 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[24-Aug-2018 00:17:55 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[24-Aug-2018 00:18:35 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[24-Aug-2018 00:18:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 00:18:35 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[24-Aug-2018 00:18:35 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[24-Aug-2018 00:21:30 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[24-Aug-2018 00:21:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 00:21:30 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[24-Aug-2018 00:21:30 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[24-Aug-2018 00:23:20 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[24-Aug-2018 00:23:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 00:23:21 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[24-Aug-2018 00:23:21 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[24-Aug-2018 00:23:24 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[24-Aug-2018 00:23:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 00:23:24 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[24-Aug-2018 00:23:24 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[24-Aug-2018 00:29:41 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[24-Aug-2018 00:29:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 00:29:41 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[24-Aug-2018 00:29:41 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[24-Aug-2018 01:14:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 01:29:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 01:30:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 13:41:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 13:41:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 14:36:29 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[24-Aug-2018 14:36:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 14:36:29 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[24-Aug-2018 14:36:29 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[24-Aug-2018 16:29:32 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[24-Aug-2018 16:29:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 16:29:32 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[24-Aug-2018 16:29:32 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[24-Aug-2018 19:37:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 19:38:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 19:38:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 19:38:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 20:40:40 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[24-Aug-2018 20:40:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 20:40:40 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[24-Aug-2018 20:40:40 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[24-Aug-2018 20:43:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 20:43:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 20:44:46 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[24-Aug-2018 20:44:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 20:44:46 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[24-Aug-2018 20:44:46 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[24-Aug-2018 20:44:55 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[24-Aug-2018 20:44:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 20:44:55 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[24-Aug-2018 20:44:55 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[24-Aug-2018 20:45:00 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/chart.php on line 8
+[24-Aug-2018 20:45:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 20:45:33 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/chart.php on line 8
+[24-Aug-2018 20:45:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 20:53:02 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/chart.php on line 8
+[24-Aug-2018 20:53:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 20:53:05 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[24-Aug-2018 20:53:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 20:53:05 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[24-Aug-2018 20:53:05 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[24-Aug-2018 20:53:17 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[24-Aug-2018 20:53:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 20:53:17 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[24-Aug-2018 20:53:17 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[24-Aug-2018 20:53:26 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[24-Aug-2018 20:53:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 20:53:26 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[24-Aug-2018 20:53:26 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[24-Aug-2018 20:53:42 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[24-Aug-2018 20:53:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 20:53:42 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[24-Aug-2018 20:53:42 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[24-Aug-2018 20:53:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 20:53:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 20:53:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 20:53:58 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[24-Aug-2018 20:53:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 20:53:58 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[24-Aug-2018 20:53:58 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[24-Aug-2018 20:54:06 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[24-Aug-2018 20:54:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 20:54:06 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[24-Aug-2018 20:54:06 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[24-Aug-2018 20:54:07 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/chart.php on line 8
+[24-Aug-2018 20:54:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 20:54:08 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[24-Aug-2018 20:54:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 20:54:08 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[24-Aug-2018 20:54:08 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[24-Aug-2018 20:54:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 20:55:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 20:56:19 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[24-Aug-2018 20:56:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 20:56:19 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[24-Aug-2018 20:56:19 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[24-Aug-2018 20:56:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 20:56:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 20:56:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 20:56:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 20:59:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 20:59:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 20:59:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 21:43:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 22:12:40 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[24-Aug-2018 22:12:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 22:12:40 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[24-Aug-2018 22:12:40 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[24-Aug-2018 22:16:21 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[24-Aug-2018 22:16:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 22:16:21 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[24-Aug-2018 22:16:21 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[24-Aug-2018 22:16:28 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[24-Aug-2018 22:16:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[24-Aug-2018 22:16:28 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[24-Aug-2018 22:16:28 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[24-Aug-2018 23:20:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[25-Aug-2018 01:03:15 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[25-Aug-2018 01:03:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[25-Aug-2018 01:03:15 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[25-Aug-2018 01:03:15 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[25-Aug-2018 01:03:32 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[25-Aug-2018 01:03:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[25-Aug-2018 01:03:32 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[25-Aug-2018 01:03:32 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[25-Aug-2018 01:03:36 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[25-Aug-2018 01:03:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[25-Aug-2018 01:03:36 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[25-Aug-2018 01:03:36 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[25-Aug-2018 01:03:42 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[25-Aug-2018 01:03:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[25-Aug-2018 01:03:42 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[25-Aug-2018 01:03:42 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[25-Aug-2018 13:47:19 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[25-Aug-2018 13:47:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[25-Aug-2018 13:47:19 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[25-Aug-2018 13:47:19 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[25-Aug-2018 13:47:30 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[25-Aug-2018 13:47:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[25-Aug-2018 13:47:30 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[25-Aug-2018 13:47:30 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[25-Aug-2018 14:28:46 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[25-Aug-2018 14:28:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[25-Aug-2018 14:28:46 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[25-Aug-2018 14:28:46 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[25-Aug-2018 14:59:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[25-Aug-2018 15:11:17 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[25-Aug-2018 15:11:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[25-Aug-2018 15:11:17 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[25-Aug-2018 15:11:17 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[25-Aug-2018 15:14:15 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[25-Aug-2018 15:14:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[25-Aug-2018 15:14:15 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[25-Aug-2018 15:14:15 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[25-Aug-2018 15:17:44 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[25-Aug-2018 15:17:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[25-Aug-2018 15:17:44 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[25-Aug-2018 15:17:44 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[25-Aug-2018 15:17:56 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[25-Aug-2018 15:17:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[25-Aug-2018 15:17:56 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[25-Aug-2018 15:17:56 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[25-Aug-2018 15:19:30 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[25-Aug-2018 15:19:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[25-Aug-2018 15:19:30 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[25-Aug-2018 15:19:30 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[25-Aug-2018 15:22:58 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[25-Aug-2018 15:22:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[25-Aug-2018 15:22:58 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[25-Aug-2018 15:22:58 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[25-Aug-2018 15:24:41 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[25-Aug-2018 15:24:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[25-Aug-2018 15:24:42 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[25-Aug-2018 15:24:42 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[25-Aug-2018 15:25:56 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[25-Aug-2018 15:25:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[25-Aug-2018 15:25:56 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[25-Aug-2018 15:25:56 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[25-Aug-2018 15:27:18 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[25-Aug-2018 15:27:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[25-Aug-2018 15:27:18 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[25-Aug-2018 15:27:18 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[25-Aug-2018 18:45:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[25-Aug-2018 18:52:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[25-Aug-2018 22:07:57 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[25-Aug-2018 22:07:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[25-Aug-2018 22:07:58 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[25-Aug-2018 22:07:58 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[27-Aug-2018 11:56:52 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/index.php on line 69
+[27-Aug-2018 11:56:52 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[27-Aug-2018 11:56:52 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 104
+[27-Aug-2018 11:56:52 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 114
+[27-Aug-2018 11:56:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 23
+[27-Aug-2018 11:56:52 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 26
+[27-Aug-2018 11:56:52 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 41
+[27-Aug-2018 11:56:52 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 41
+[27-Aug-2018 11:56:52 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 52
+[27-Aug-2018 11:56:52 UTC] PHP Notice:  Undefined variable: d in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 52
+[27-Aug-2018 11:56:52 UTC] PHP Notice:  Undefined variable: email in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 54
+[27-Aug-2018 11:56:52 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 162
+[27-Aug-2018 11:56:52 UTC] PHP Notice:  Undefined variable: totalorder in /home/u460930808/public_html/CoolAdmin-master/index.php on line 179
+[27-Aug-2018 11:56:52 UTC] PHP Notice:  Undefined variable: totalpaid in /home/u460930808/public_html/CoolAdmin-master/index.php on line 197
+[27-Aug-2018 11:56:52 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 294
+[27-Aug-2018 11:56:52 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 320
+[27-Aug-2018 20:33:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 20:33:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 20:33:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 20:43:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 20:43:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 20:45:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 20:46:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 20:46:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 20:46:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 20:47:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 20:49:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 20:49:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 20:49:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 20:51:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 20:51:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 20:51:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 20:51:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 20:51:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 20:51:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 20:51:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 20:52:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 20:52:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 20:52:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 20:53:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 20:53:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 20:53:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 20:53:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 20:54:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 20:57:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 20:59:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 21:01:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 21:28:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[27-Aug-2018 21:28:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 18:20:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 23:04:45 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[28-Aug-2018 23:04:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 23:04:45 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 161
+[28-Aug-2018 23:04:45 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 293
+[28-Aug-2018 23:04:54 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[28-Aug-2018 23:04:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 23:04:54 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 161
+[28-Aug-2018 23:04:54 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 293
+[28-Aug-2018 23:05:09 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[28-Aug-2018 23:05:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 23:05:09 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 161
+[28-Aug-2018 23:05:09 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 293
+[28-Aug-2018 23:05:12 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[28-Aug-2018 23:05:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 23:05:12 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 161
+[28-Aug-2018 23:05:12 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 293
+[28-Aug-2018 23:11:53 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[28-Aug-2018 23:11:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 23:11:53 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 161
+[28-Aug-2018 23:11:53 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 293
+[28-Aug-2018 23:12:35 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[28-Aug-2018 23:12:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 23:12:35 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 161
+[28-Aug-2018 23:12:35 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 293
+[28-Aug-2018 23:25:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 23:26:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 23:26:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 23:27:09 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[28-Aug-2018 23:27:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 23:27:09 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 161
+[28-Aug-2018 23:27:09 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 293
+[28-Aug-2018 23:27:13 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[28-Aug-2018 23:27:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 23:27:13 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 161
+[28-Aug-2018 23:27:13 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 293
+[28-Aug-2018 23:27:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 23:27:44 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[28-Aug-2018 23:27:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 23:27:44 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 161
+[28-Aug-2018 23:27:44 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 293
+[28-Aug-2018 23:29:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 23:32:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 23:32:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 23:32:36 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[28-Aug-2018 23:32:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 23:32:36 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 161
+[28-Aug-2018 23:32:36 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 293
+[28-Aug-2018 23:36:55 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[28-Aug-2018 23:36:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 23:36:55 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 161
+[28-Aug-2018 23:36:55 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 293
+[28-Aug-2018 23:39:39 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/u460930808/public_html/CoolAdmin-master/index.php on line 365
+[28-Aug-2018 23:39:49 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/u460930808/public_html/CoolAdmin-master/index.php on line 365
+[28-Aug-2018 23:39:52 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/u460930808/public_html/CoolAdmin-master/index.php on line 365
+[28-Aug-2018 23:40:11 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[28-Aug-2018 23:40:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 23:40:11 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 161
+[28-Aug-2018 23:40:11 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 293
+[28-Aug-2018 23:40:21 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[28-Aug-2018 23:40:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 23:40:21 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 161
+[28-Aug-2018 23:40:21 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 293
+[28-Aug-2018 23:40:31 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[28-Aug-2018 23:40:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 23:40:31 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 161
+[28-Aug-2018 23:40:31 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 293
+[28-Aug-2018 23:40:44 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[28-Aug-2018 23:40:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 23:40:44 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 161
+[28-Aug-2018 23:40:44 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 293
+[28-Aug-2018 23:40:52 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[28-Aug-2018 23:40:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 23:40:52 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 161
+[28-Aug-2018 23:40:52 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 293
+[28-Aug-2018 23:40:58 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[28-Aug-2018 23:40:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 23:40:58 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 161
+[28-Aug-2018 23:40:58 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 293
+[28-Aug-2018 23:41:15 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[28-Aug-2018 23:41:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 23:41:15 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 161
+[28-Aug-2018 23:41:15 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 293
+[28-Aug-2018 23:42:09 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[28-Aug-2018 23:42:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 23:42:09 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 161
+[28-Aug-2018 23:42:09 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 293
+[28-Aug-2018 23:42:16 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[28-Aug-2018 23:42:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 23:42:16 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 161
+[28-Aug-2018 23:42:16 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 293
+[28-Aug-2018 23:43:38 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[28-Aug-2018 23:43:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 23:43:38 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 161
+[28-Aug-2018 23:43:38 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 293
+[28-Aug-2018 23:43:48 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[28-Aug-2018 23:43:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 23:43:48 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 161
+[28-Aug-2018 23:43:48 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 293
+[28-Aug-2018 23:44:06 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[28-Aug-2018 23:44:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[28-Aug-2018 23:44:06 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 161
+[28-Aug-2018 23:44:06 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 293
+[28-Aug-2018 23:50:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[29-Aug-2018 00:27:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[29-Aug-2018 02:24:54 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[29-Aug-2018 02:24:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[29-Aug-2018 02:24:54 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 161
+[29-Aug-2018 02:24:54 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 293
+[29-Aug-2018 13:58:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[29-Aug-2018 14:27:30 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[29-Aug-2018 14:27:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[29-Aug-2018 14:27:30 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 161
+[29-Aug-2018 14:27:30 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 293
+[29-Aug-2018 14:31:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[29-Aug-2018 14:33:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[29-Aug-2018 16:14:08 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[29-Aug-2018 16:14:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[29-Aug-2018 16:14:08 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 161
+[29-Aug-2018 16:14:08 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 293
+[29-Aug-2018 16:44:44 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[29-Aug-2018 16:44:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[29-Aug-2018 16:44:44 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 161
+[29-Aug-2018 16:44:44 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 293
+[29-Aug-2018 16:45:42 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[29-Aug-2018 16:45:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[29-Aug-2018 16:45:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Ds\Vector' not found in /home/u460930808/public_html/CoolAdmin-master/index.php:132
+Stack trace:
+#0 {main}
+  thrown in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[29-Aug-2018 16:45:47 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[29-Aug-2018 16:45:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[29-Aug-2018 16:45:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Ds\Vector' not found in /home/u460930808/public_html/CoolAdmin-master/index.php:132
+Stack trace:
+#0 {main}
+  thrown in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[29-Aug-2018 16:46:02 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[29-Aug-2018 16:46:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[29-Aug-2018 16:46:02 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 159
+[29-Aug-2018 16:46:02 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 291
+[29-Aug-2018 17:23:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[29-Aug-2018 18:29:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[29-Aug-2018 18:29:22 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[29-Aug-2018 18:29:22 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[29-Aug-2018 18:30:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[29-Aug-2018 18:30:12 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[29-Aug-2018 18:30:12 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[29-Aug-2018 18:30:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[29-Aug-2018 18:30:27 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[29-Aug-2018 18:30:27 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[29-Aug-2018 18:42:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[29-Aug-2018 18:42:22 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[29-Aug-2018 18:42:22 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[29-Aug-2018 18:42:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[29-Aug-2018 18:42:51 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[29-Aug-2018 18:42:51 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[29-Aug-2018 18:43:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[29-Aug-2018 18:43:08 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[29-Aug-2018 18:43:08 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[29-Aug-2018 18:43:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[29-Aug-2018 18:43:15 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[29-Aug-2018 18:43:15 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[29-Aug-2018 18:47:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[29-Aug-2018 18:47:12 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[29-Aug-2018 18:47:12 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[29-Aug-2018 18:47:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[29-Aug-2018 18:47:31 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[29-Aug-2018 18:47:31 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[29-Aug-2018 18:47:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[29-Aug-2018 18:47:48 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[29-Aug-2018 18:47:48 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[29-Aug-2018 18:47:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[29-Aug-2018 18:47:50 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[29-Aug-2018 18:47:50 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[29-Aug-2018 18:47:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[29-Aug-2018 18:47:53 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[29-Aug-2018 18:47:53 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[29-Aug-2018 18:48:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[29-Aug-2018 18:48:03 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[29-Aug-2018 18:48:03 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[29-Aug-2018 18:48:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[29-Aug-2018 18:48:08 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[29-Aug-2018 18:48:08 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[29-Aug-2018 20:38:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[29-Aug-2018 20:38:39 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[29-Aug-2018 20:38:39 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[30-Aug-2018 12:47:45 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/index.php on line 69
+[30-Aug-2018 12:47:45 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[30-Aug-2018 12:47:45 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 104
+[30-Aug-2018 12:47:45 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 114
+[30-Aug-2018 12:47:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[30-Aug-2018 12:47:45 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 37
+[30-Aug-2018 12:47:45 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 52
+[30-Aug-2018 12:47:45 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 52
+[30-Aug-2018 12:47:45 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 63
+[30-Aug-2018 12:47:45 UTC] PHP Notice:  Undefined variable: d in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 63
+[30-Aug-2018 12:47:45 UTC] PHP Notice:  Undefined variable: email in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 65
+[30-Aug-2018 12:47:45 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[30-Aug-2018 12:47:45 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[30-Aug-2018 12:47:45 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[30-Aug-2018 12:47:45 UTC] PHP Notice:  Undefined variable: totalorder in /home/u460930808/public_html/CoolAdmin-master/index.php on line 177
+[30-Aug-2018 12:47:45 UTC] PHP Notice:  Undefined variable: totalpaid in /home/u460930808/public_html/CoolAdmin-master/index.php on line 195
+[30-Aug-2018 12:47:45 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[30-Aug-2018 12:47:45 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 318
+[30-Aug-2018 12:47:47 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/index.php on line 69
+[30-Aug-2018 12:47:47 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[30-Aug-2018 12:47:47 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 104
+[30-Aug-2018 12:47:47 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 114
+[30-Aug-2018 12:47:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[30-Aug-2018 12:47:47 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 37
+[30-Aug-2018 12:47:47 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 52
+[30-Aug-2018 12:47:47 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 52
+[30-Aug-2018 12:47:47 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 63
+[30-Aug-2018 12:47:47 UTC] PHP Notice:  Undefined variable: d in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 63
+[30-Aug-2018 12:47:47 UTC] PHP Notice:  Undefined variable: email in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 65
+[30-Aug-2018 12:47:47 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[30-Aug-2018 12:47:47 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[30-Aug-2018 12:47:47 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[30-Aug-2018 12:47:47 UTC] PHP Notice:  Undefined variable: totalorder in /home/u460930808/public_html/CoolAdmin-master/index.php on line 177
+[30-Aug-2018 12:47:47 UTC] PHP Notice:  Undefined variable: totalpaid in /home/u460930808/public_html/CoolAdmin-master/index.php on line 195
+[30-Aug-2018 12:47:47 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[30-Aug-2018 12:47:47 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 318
+[30-Aug-2018 12:48:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[30-Aug-2018 12:48:21 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[30-Aug-2018 12:48:21 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[30-Aug-2018 17:42:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[30-Aug-2018 17:42:07 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[30-Aug-2018 17:42:07 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[30-Aug-2018 20:02:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[30-Aug-2018 20:02:48 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[30-Aug-2018 20:02:48 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[30-Aug-2018 21:34:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[30-Aug-2018 21:34:02 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[30-Aug-2018 21:34:02 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[31-Aug-2018 17:53:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[31-Aug-2018 17:53:06 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[31-Aug-2018 17:53:07 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[31-Aug-2018 17:53:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[31-Aug-2018 17:53:10 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[31-Aug-2018 17:53:10 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[31-Aug-2018 19:03:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 34
+[31-Aug-2018 19:03:48 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[31-Aug-2018 19:03:48 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[01-Sep-2018 19:12:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[01-Sep-2018 19:12:49 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[01-Sep-2018 19:12:49 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[02-Sep-2018 05:53:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[02-Sep-2018 05:53:09 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[02-Sep-2018 05:53:09 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[02-Sep-2018 06:43:14 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/index.php on line 69
+[02-Sep-2018 06:43:14 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[02-Sep-2018 06:43:14 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 104
+[02-Sep-2018 06:43:14 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 114
+[02-Sep-2018 06:43:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[02-Sep-2018 06:43:14 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 48
+[02-Sep-2018 06:43:14 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 63
+[02-Sep-2018 06:43:14 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 63
+[02-Sep-2018 06:43:14 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 74
+[02-Sep-2018 06:43:14 UTC] PHP Notice:  Undefined variable: d in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 74
+[02-Sep-2018 06:43:14 UTC] PHP Notice:  Undefined variable: email in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 76
+[02-Sep-2018 06:43:14 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[02-Sep-2018 06:43:14 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[02-Sep-2018 06:43:14 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[02-Sep-2018 06:43:14 UTC] PHP Notice:  Undefined variable: totalorder in /home/u460930808/public_html/CoolAdmin-master/index.php on line 177
+[02-Sep-2018 06:43:14 UTC] PHP Notice:  Undefined variable: totalpaid in /home/u460930808/public_html/CoolAdmin-master/index.php on line 195
+[02-Sep-2018 06:43:14 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[02-Sep-2018 06:43:14 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 318
+[02-Sep-2018 06:43:16 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/index.php on line 69
+[02-Sep-2018 06:43:16 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[02-Sep-2018 06:43:16 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 104
+[02-Sep-2018 06:43:16 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 114
+[02-Sep-2018 06:43:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[02-Sep-2018 06:43:16 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 48
+[02-Sep-2018 06:43:16 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 63
+[02-Sep-2018 06:43:16 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 63
+[02-Sep-2018 06:43:16 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 74
+[02-Sep-2018 06:43:16 UTC] PHP Notice:  Undefined variable: d in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 74
+[02-Sep-2018 06:43:16 UTC] PHP Notice:  Undefined variable: email in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 76
+[02-Sep-2018 06:43:16 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[02-Sep-2018 06:43:16 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[02-Sep-2018 06:43:16 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[02-Sep-2018 06:43:16 UTC] PHP Notice:  Undefined variable: totalorder in /home/u460930808/public_html/CoolAdmin-master/index.php on line 177
+[02-Sep-2018 06:43:16 UTC] PHP Notice:  Undefined variable: totalpaid in /home/u460930808/public_html/CoolAdmin-master/index.php on line 195
+[02-Sep-2018 06:43:16 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[02-Sep-2018 06:43:16 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 318
+[02-Sep-2018 10:35:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[02-Sep-2018 10:35:09 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[02-Sep-2018 10:35:09 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[02-Sep-2018 11:18:43 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/index.php on line 69
+[02-Sep-2018 11:18:43 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[02-Sep-2018 11:18:43 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 104
+[02-Sep-2018 11:18:43 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 114
+[02-Sep-2018 11:18:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[02-Sep-2018 11:18:43 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 48
+[02-Sep-2018 11:18:43 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 63
+[02-Sep-2018 11:18:43 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 63
+[02-Sep-2018 11:18:43 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 74
+[02-Sep-2018 11:18:43 UTC] PHP Notice:  Undefined variable: d in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 74
+[02-Sep-2018 11:18:43 UTC] PHP Notice:  Undefined variable: email in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 76
+[02-Sep-2018 11:18:43 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[02-Sep-2018 11:18:43 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[02-Sep-2018 11:18:43 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[02-Sep-2018 11:18:43 UTC] PHP Notice:  Undefined variable: totalorder in /home/u460930808/public_html/CoolAdmin-master/index.php on line 177
+[02-Sep-2018 11:18:43 UTC] PHP Notice:  Undefined variable: totalpaid in /home/u460930808/public_html/CoolAdmin-master/index.php on line 195
+[02-Sep-2018 11:18:43 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[02-Sep-2018 11:18:43 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 318
+[02-Sep-2018 14:15:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[02-Sep-2018 14:15:13 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[02-Sep-2018 14:15:13 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[02-Sep-2018 15:10:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[02-Sep-2018 15:10:03 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[02-Sep-2018 15:10:03 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[02-Sep-2018 16:30:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[02-Sep-2018 16:30:47 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[02-Sep-2018 16:30:47 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[02-Sep-2018 17:23:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[02-Sep-2018 17:23:43 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[02-Sep-2018 17:23:43 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[02-Sep-2018 18:16:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[02-Sep-2018 18:16:10 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[02-Sep-2018 18:16:10 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[02-Sep-2018 18:31:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[02-Sep-2018 18:31:32 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[02-Sep-2018 18:31:32 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[02-Sep-2018 18:35:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[02-Sep-2018 18:35:45 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[02-Sep-2018 18:35:45 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[02-Sep-2018 18:56:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[02-Sep-2018 18:56:14 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[02-Sep-2018 18:56:14 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[02-Sep-2018 19:02:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[02-Sep-2018 19:02:32 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[02-Sep-2018 19:02:32 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[02-Sep-2018 19:13:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[02-Sep-2018 19:13:32 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[02-Sep-2018 19:13:32 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[02-Sep-2018 19:18:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[02-Sep-2018 19:18:41 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[02-Sep-2018 19:18:41 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[02-Sep-2018 19:40:50 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/index.php on line 69
+[02-Sep-2018 19:40:50 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[02-Sep-2018 19:40:50 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 104
+[02-Sep-2018 19:40:50 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 114
+[02-Sep-2018 19:40:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[02-Sep-2018 19:40:50 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 48
+[02-Sep-2018 19:40:50 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 63
+[02-Sep-2018 19:40:50 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 63
+[02-Sep-2018 19:40:50 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 74
+[02-Sep-2018 19:40:50 UTC] PHP Notice:  Undefined variable: d in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 74
+[02-Sep-2018 19:40:50 UTC] PHP Notice:  Undefined variable: email in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 76
+[02-Sep-2018 19:40:50 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[02-Sep-2018 19:40:50 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[02-Sep-2018 19:40:50 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[02-Sep-2018 19:40:50 UTC] PHP Notice:  Undefined variable: totalorder in /home/u460930808/public_html/CoolAdmin-master/index.php on line 177
+[02-Sep-2018 19:40:50 UTC] PHP Notice:  Undefined variable: totalpaid in /home/u460930808/public_html/CoolAdmin-master/index.php on line 195
+[02-Sep-2018 19:40:50 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[02-Sep-2018 19:40:50 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 318
+[02-Sep-2018 19:40:53 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/index.php on line 69
+[02-Sep-2018 19:40:53 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[02-Sep-2018 19:40:53 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 104
+[02-Sep-2018 19:40:53 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 114
+[02-Sep-2018 19:40:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[02-Sep-2018 19:40:53 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 48
+[02-Sep-2018 19:40:53 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 63
+[02-Sep-2018 19:40:53 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 63
+[02-Sep-2018 19:40:53 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 74
+[02-Sep-2018 19:40:53 UTC] PHP Notice:  Undefined variable: d in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 74
+[02-Sep-2018 19:40:53 UTC] PHP Notice:  Undefined variable: email in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 76
+[02-Sep-2018 19:40:53 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[02-Sep-2018 19:40:53 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[02-Sep-2018 19:40:53 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[02-Sep-2018 19:40:53 UTC] PHP Notice:  Undefined variable: totalorder in /home/u460930808/public_html/CoolAdmin-master/index.php on line 177
+[02-Sep-2018 19:40:53 UTC] PHP Notice:  Undefined variable: totalpaid in /home/u460930808/public_html/CoolAdmin-master/index.php on line 195
+[02-Sep-2018 19:40:53 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[02-Sep-2018 19:40:53 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 318
+[02-Sep-2018 19:41:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[02-Sep-2018 19:41:37 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[02-Sep-2018 19:41:37 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[02-Sep-2018 19:45:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[02-Sep-2018 19:45:32 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[02-Sep-2018 19:45:32 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[02-Sep-2018 19:51:02 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/index.php on line 69
+[02-Sep-2018 19:51:02 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[02-Sep-2018 19:51:02 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 104
+[02-Sep-2018 19:51:02 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 114
+[02-Sep-2018 19:51:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[02-Sep-2018 19:51:02 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 48
+[02-Sep-2018 19:51:02 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 63
+[02-Sep-2018 19:51:02 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 63
+[02-Sep-2018 19:51:02 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 74
+[02-Sep-2018 19:51:02 UTC] PHP Notice:  Undefined variable: d in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 74
+[02-Sep-2018 19:51:02 UTC] PHP Notice:  Undefined variable: email in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 76
+[02-Sep-2018 19:51:02 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[02-Sep-2018 19:51:02 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[02-Sep-2018 19:51:02 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[02-Sep-2018 19:51:02 UTC] PHP Notice:  Undefined variable: totalorder in /home/u460930808/public_html/CoolAdmin-master/index.php on line 177
+[02-Sep-2018 19:51:02 UTC] PHP Notice:  Undefined variable: totalpaid in /home/u460930808/public_html/CoolAdmin-master/index.php on line 195
+[02-Sep-2018 19:51:02 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[02-Sep-2018 19:51:02 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 318
+[02-Sep-2018 20:28:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[02-Sep-2018 20:28:47 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[02-Sep-2018 20:28:47 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[02-Sep-2018 20:40:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[02-Sep-2018 20:40:28 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[02-Sep-2018 20:40:28 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[02-Sep-2018 21:38:02 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/index.php on line 69
+[02-Sep-2018 21:38:02 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[02-Sep-2018 21:38:02 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 104
+[02-Sep-2018 21:38:02 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 114
+[02-Sep-2018 21:38:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[02-Sep-2018 21:38:02 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 48
+[02-Sep-2018 21:38:02 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 63
+[02-Sep-2018 21:38:02 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 63
+[02-Sep-2018 21:38:02 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 74
+[02-Sep-2018 21:38:02 UTC] PHP Notice:  Undefined variable: d in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 74
+[02-Sep-2018 21:38:02 UTC] PHP Notice:  Undefined variable: email in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 76
+[02-Sep-2018 21:38:02 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[02-Sep-2018 21:38:02 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[02-Sep-2018 21:38:02 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[02-Sep-2018 21:38:02 UTC] PHP Notice:  Undefined variable: totalorder in /home/u460930808/public_html/CoolAdmin-master/index.php on line 177
+[02-Sep-2018 21:38:02 UTC] PHP Notice:  Undefined variable: totalpaid in /home/u460930808/public_html/CoolAdmin-master/index.php on line 195
+[02-Sep-2018 21:38:02 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[02-Sep-2018 21:38:02 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 318
+[02-Sep-2018 21:38:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[02-Sep-2018 21:38:31 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[02-Sep-2018 21:38:31 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[02-Sep-2018 21:54:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[02-Sep-2018 21:54:47 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[02-Sep-2018 21:54:47 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[02-Sep-2018 22:09:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[02-Sep-2018 22:09:00 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[02-Sep-2018 22:09:00 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[02-Sep-2018 22:28:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[02-Sep-2018 22:28:01 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[02-Sep-2018 22:28:01 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[02-Sep-2018 23:03:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[02-Sep-2018 23:03:14 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[02-Sep-2018 23:03:14 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[02-Sep-2018 23:29:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[02-Sep-2018 23:29:04 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[02-Sep-2018 23:29:04 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[03-Sep-2018 02:20:16 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[03-Sep-2018 02:20:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[03-Sep-2018 02:20:16 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[03-Sep-2018 02:20:16 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[03-Sep-2018 02:20:16 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[03-Sep-2018 02:20:16 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[03-Sep-2018 09:06:30 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/index.php on line 69
+[03-Sep-2018 09:06:30 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[03-Sep-2018 09:06:30 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 104
+[03-Sep-2018 09:06:30 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 114
+[03-Sep-2018 09:06:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[03-Sep-2018 09:06:30 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 48
+[03-Sep-2018 09:06:30 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 63
+[03-Sep-2018 09:06:30 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 63
+[03-Sep-2018 09:06:30 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 74
+[03-Sep-2018 09:06:30 UTC] PHP Notice:  Undefined variable: d in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 74
+[03-Sep-2018 09:06:30 UTC] PHP Notice:  Undefined variable: email in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 76
+[03-Sep-2018 09:06:30 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[03-Sep-2018 09:06:30 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[03-Sep-2018 09:06:30 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[03-Sep-2018 09:06:30 UTC] PHP Notice:  Undefined variable: totalorder in /home/u460930808/public_html/CoolAdmin-master/index.php on line 177
+[03-Sep-2018 09:06:30 UTC] PHP Notice:  Undefined variable: totalpaid in /home/u460930808/public_html/CoolAdmin-master/index.php on line 195
+[03-Sep-2018 09:06:30 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[03-Sep-2018 09:06:30 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 318
+[03-Sep-2018 09:06:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[03-Sep-2018 09:06:54 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[03-Sep-2018 09:06:54 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[03-Sep-2018 11:19:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[03-Sep-2018 11:19:45 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[03-Sep-2018 11:19:45 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[03-Sep-2018 15:16:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[03-Sep-2018 15:16:46 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[03-Sep-2018 15:16:46 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[03-Sep-2018 15:41:42 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/index.php on line 69
+[03-Sep-2018 15:41:42 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[03-Sep-2018 15:41:42 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 104
+[03-Sep-2018 15:41:42 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 114
+[03-Sep-2018 15:41:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[03-Sep-2018 15:41:42 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 48
+[03-Sep-2018 15:41:42 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 63
+[03-Sep-2018 15:41:42 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 63
+[03-Sep-2018 15:41:42 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 74
+[03-Sep-2018 15:41:42 UTC] PHP Notice:  Undefined variable: d in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 74
+[03-Sep-2018 15:41:42 UTC] PHP Notice:  Undefined variable: email in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 76
+[03-Sep-2018 15:41:42 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[03-Sep-2018 15:41:42 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[03-Sep-2018 15:41:42 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[03-Sep-2018 15:41:42 UTC] PHP Notice:  Undefined variable: totalorder in /home/u460930808/public_html/CoolAdmin-master/index.php on line 177
+[03-Sep-2018 15:41:42 UTC] PHP Notice:  Undefined variable: totalpaid in /home/u460930808/public_html/CoolAdmin-master/index.php on line 195
+[03-Sep-2018 15:41:42 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[03-Sep-2018 15:41:42 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 318
+[03-Sep-2018 15:42:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[03-Sep-2018 15:42:20 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[03-Sep-2018 15:42:20 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[03-Sep-2018 17:37:47 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/index.php on line 69
+[03-Sep-2018 17:37:47 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[03-Sep-2018 17:37:47 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 104
+[03-Sep-2018 17:37:47 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 114
+[03-Sep-2018 17:37:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[03-Sep-2018 17:37:47 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 48
+[03-Sep-2018 17:37:47 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 63
+[03-Sep-2018 17:37:47 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 63
+[03-Sep-2018 17:37:47 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 74
+[03-Sep-2018 17:37:47 UTC] PHP Notice:  Undefined variable: d in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 74
+[03-Sep-2018 17:37:47 UTC] PHP Notice:  Undefined variable: email in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 76
+[03-Sep-2018 17:37:47 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[03-Sep-2018 17:37:47 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[03-Sep-2018 17:37:47 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[03-Sep-2018 17:37:47 UTC] PHP Notice:  Undefined variable: totalorder in /home/u460930808/public_html/CoolAdmin-master/index.php on line 177
+[03-Sep-2018 17:37:47 UTC] PHP Notice:  Undefined variable: totalpaid in /home/u460930808/public_html/CoolAdmin-master/index.php on line 195
+[03-Sep-2018 17:37:47 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[03-Sep-2018 17:37:47 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 318
+[03-Sep-2018 17:39:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[03-Sep-2018 17:39:15 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[03-Sep-2018 17:39:15 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[03-Sep-2018 17:42:11 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[03-Sep-2018 17:42:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[03-Sep-2018 17:42:11 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[03-Sep-2018 17:42:11 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[03-Sep-2018 17:42:11 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[03-Sep-2018 17:42:11 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[03-Sep-2018 18:08:21 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[03-Sep-2018 18:08:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[03-Sep-2018 18:08:21 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[03-Sep-2018 18:08:21 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[03-Sep-2018 18:08:21 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[03-Sep-2018 18:08:21 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[03-Sep-2018 18:08:53 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[03-Sep-2018 18:08:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[03-Sep-2018 18:08:53 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[03-Sep-2018 18:08:53 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[03-Sep-2018 18:08:53 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[03-Sep-2018 18:08:53 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[03-Sep-2018 18:15:54 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/index.php on line 69
+[03-Sep-2018 18:15:54 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[03-Sep-2018 18:15:54 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 104
+[03-Sep-2018 18:15:54 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 114
+[03-Sep-2018 18:15:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[03-Sep-2018 18:15:54 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 48
+[03-Sep-2018 18:15:54 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 63
+[03-Sep-2018 18:15:54 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 63
+[03-Sep-2018 18:15:54 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 74
+[03-Sep-2018 18:15:54 UTC] PHP Notice:  Undefined variable: d in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 74
+[03-Sep-2018 18:15:54 UTC] PHP Notice:  Undefined variable: email in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 76
+[03-Sep-2018 18:15:54 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[03-Sep-2018 18:15:54 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[03-Sep-2018 18:15:54 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[03-Sep-2018 18:15:54 UTC] PHP Notice:  Undefined variable: totalorder in /home/u460930808/public_html/CoolAdmin-master/index.php on line 177
+[03-Sep-2018 18:15:54 UTC] PHP Notice:  Undefined variable: totalpaid in /home/u460930808/public_html/CoolAdmin-master/index.php on line 195
+[03-Sep-2018 18:15:54 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[03-Sep-2018 18:15:54 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 318
+[03-Sep-2018 18:16:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[03-Sep-2018 18:16:38 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[03-Sep-2018 18:16:38 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[03-Sep-2018 18:47:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[03-Sep-2018 18:47:46 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[03-Sep-2018 18:47:46 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[03-Sep-2018 22:55:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[03-Sep-2018 22:55:04 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[03-Sep-2018 22:55:04 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[03-Sep-2018 23:52:44 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/index.php on line 69
+[03-Sep-2018 23:52:44 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[03-Sep-2018 23:52:44 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 104
+[03-Sep-2018 23:52:44 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 114
+[03-Sep-2018 23:52:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[03-Sep-2018 23:52:44 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 48
+[03-Sep-2018 23:52:44 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 63
+[03-Sep-2018 23:52:44 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 63
+[03-Sep-2018 23:52:44 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 74
+[03-Sep-2018 23:52:44 UTC] PHP Notice:  Undefined variable: d in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 74
+[03-Sep-2018 23:52:44 UTC] PHP Notice:  Undefined variable: email in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 76
+[03-Sep-2018 23:52:44 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[03-Sep-2018 23:52:44 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[03-Sep-2018 23:52:44 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[03-Sep-2018 23:52:44 UTC] PHP Notice:  Undefined variable: totalorder in /home/u460930808/public_html/CoolAdmin-master/index.php on line 177
+[03-Sep-2018 23:52:44 UTC] PHP Notice:  Undefined variable: totalpaid in /home/u460930808/public_html/CoolAdmin-master/index.php on line 195
+[03-Sep-2018 23:52:44 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[03-Sep-2018 23:52:44 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 318
+[04-Sep-2018 02:34:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 02:34:11 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[04-Sep-2018 02:34:11 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[04-Sep-2018 11:33:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 11:33:37 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[04-Sep-2018 11:33:37 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[04-Sep-2018 17:42:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 17:42:17 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[04-Sep-2018 17:42:17 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[04-Sep-2018 19:00:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 19:00:53 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[04-Sep-2018 19:00:53 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[04-Sep-2018 19:58:40 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/index.php on line 69
+[04-Sep-2018 19:58:40 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[04-Sep-2018 19:58:40 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 104
+[04-Sep-2018 19:58:40 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 114
+[04-Sep-2018 19:58:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 19:58:40 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 48
+[04-Sep-2018 19:58:40 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 63
+[04-Sep-2018 19:58:40 UTC] PHP Notice:  Undefined index: id in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 63
+[04-Sep-2018 19:58:40 UTC] PHP Notice:  Undefined variable: p in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 74
+[04-Sep-2018 19:58:40 UTC] PHP Notice:  Undefined variable: d in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 74
+[04-Sep-2018 19:58:40 UTC] PHP Notice:  Undefined variable: email in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 76
+[04-Sep-2018 19:58:40 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[04-Sep-2018 19:58:40 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[04-Sep-2018 19:58:40 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[04-Sep-2018 19:58:40 UTC] PHP Notice:  Undefined variable: totalorder in /home/u460930808/public_html/CoolAdmin-master/index.php on line 177
+[04-Sep-2018 19:58:40 UTC] PHP Notice:  Undefined variable: totalpaid in /home/u460930808/public_html/CoolAdmin-master/index.php on line 195
+[04-Sep-2018 19:58:40 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[04-Sep-2018 19:58:40 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 318
+[04-Sep-2018 21:12:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 21:12:44 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[04-Sep-2018 21:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[04-Sep-2018 21:12:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 21:12:53 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[04-Sep-2018 21:12:53 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[04-Sep-2018 21:13:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 21:13:00 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[04-Sep-2018 21:13:00 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[04-Sep-2018 21:13:16 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[04-Sep-2018 21:13:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 21:13:16 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[04-Sep-2018 21:13:16 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[04-Sep-2018 21:13:16 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[04-Sep-2018 21:13:16 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[04-Sep-2018 21:15:02 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[04-Sep-2018 21:15:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 21:15:02 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[04-Sep-2018 21:15:02 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[04-Sep-2018 21:15:02 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[04-Sep-2018 21:15:02 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[04-Sep-2018 21:17:43 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[04-Sep-2018 21:17:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 21:17:43 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[04-Sep-2018 21:17:43 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[04-Sep-2018 21:17:43 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[04-Sep-2018 21:17:43 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[04-Sep-2018 21:28:33 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[04-Sep-2018 21:28:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 21:28:33 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[04-Sep-2018 21:28:33 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[04-Sep-2018 21:28:33 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[04-Sep-2018 21:28:33 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[04-Sep-2018 21:28:46 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 72
+[04-Sep-2018 21:28:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 21:28:46 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[04-Sep-2018 21:28:46 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[04-Sep-2018 21:28:46 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[04-Sep-2018 21:28:46 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[04-Sep-2018 21:32:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 21:32:09 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[04-Sep-2018 21:32:09 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[04-Sep-2018 21:32:09 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[04-Sep-2018 21:32:09 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[04-Sep-2018 21:33:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 21:33:41 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[04-Sep-2018 21:33:41 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[04-Sep-2018 21:33:41 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[04-Sep-2018 21:33:41 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[04-Sep-2018 21:34:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 21:34:03 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[04-Sep-2018 21:34:03 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[04-Sep-2018 21:34:03 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[04-Sep-2018 21:34:03 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[04-Sep-2018 21:34:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 21:34:18 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[04-Sep-2018 21:34:18 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[04-Sep-2018 21:34:18 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[04-Sep-2018 21:34:18 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[04-Sep-2018 21:34:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 21:34:37 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[04-Sep-2018 21:34:37 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[04-Sep-2018 21:34:37 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[04-Sep-2018 21:34:37 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[04-Sep-2018 21:35:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 21:35:48 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[04-Sep-2018 21:35:48 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[04-Sep-2018 21:35:48 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[04-Sep-2018 21:35:48 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[04-Sep-2018 21:35:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 21:35:53 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[04-Sep-2018 21:35:53 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[04-Sep-2018 21:35:53 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[04-Sep-2018 21:35:53 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[04-Sep-2018 21:37:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 21:37:34 UTC] PHP Notice:  Undefined variable: _SEESION in /home/u460930808/public_html/CoolAdmin-master/index.php on line 132
+[04-Sep-2018 21:37:34 UTC] PHP Notice:  Trying to get property of non-object in /home/u460930808/public_html/CoolAdmin-master/index.php on line 136
+[04-Sep-2018 21:37:34 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 160
+[04-Sep-2018 21:37:34 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 292
+[04-Sep-2018 21:41:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 21:41:24 UTC] PHP Notice:  Undefined index: Rrole in /home/u460930808/public_html/CoolAdmin-master/index.php on line 128
+[04-Sep-2018 21:41:24 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 177
+[04-Sep-2018 21:41:24 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 309
+[04-Sep-2018 21:46:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 21:46:11 UTC] PHP Notice:  Undefined index: Rrole in /home/u460930808/public_html/CoolAdmin-master/index.php on line 128
+[04-Sep-2018 21:46:11 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 177
+[04-Sep-2018 21:46:11 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 309
+[04-Sep-2018 21:46:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 21:46:37 UTC] PHP Notice:  Undefined index: Rrole in /home/u460930808/public_html/CoolAdmin-master/index.php on line 128
+[04-Sep-2018 21:46:37 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 177
+[04-Sep-2018 21:46:37 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 309
+[04-Sep-2018 22:00:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 22:00:29 UTC] PHP Notice:  Undefined index: Rrole in /home/u460930808/public_html/CoolAdmin-master/index.php on line 128
+[04-Sep-2018 22:00:33 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 177
+[04-Sep-2018 22:00:36 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 309
+[04-Sep-2018 22:04:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 22:04:12 UTC] PHP Notice:  Undefined index: Rrole in /home/u460930808/public_html/CoolAdmin-master/index.php on line 128
+[04-Sep-2018 22:04:15 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 177
+[04-Sep-2018 22:04:18 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 309
+[04-Sep-2018 22:04:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 22:04:29 UTC] PHP Notice:  Undefined index: Rrole in /home/u460930808/public_html/CoolAdmin-master/index.php on line 128
+[04-Sep-2018 22:04:32 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 177
+[04-Sep-2018 22:04:35 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 309
+[04-Sep-2018 22:09:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 22:09:40 UTC] PHP Notice:  Undefined index: Rrole in /home/u460930808/public_html/CoolAdmin-master/index.php on line 128
+[04-Sep-2018 22:09:43 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 177
+[04-Sep-2018 22:09:45 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 309
+[04-Sep-2018 22:10:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 22:10:42 UTC] PHP Notice:  Undefined index: Rrole in /home/u460930808/public_html/CoolAdmin-master/index.php on line 128
+[04-Sep-2018 22:10:45 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 177
+[04-Sep-2018 22:10:48 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 309
+[04-Sep-2018 22:13:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 22:13:48 UTC] PHP Notice:  Undefined index: Rrole in /home/u460930808/public_html/CoolAdmin-master/index.php on line 128
+[04-Sep-2018 22:13:50 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 177
+[04-Sep-2018 22:13:53 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 309
+[04-Sep-2018 22:25:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 22:25:38 UTC] PHP Notice:  Undefined index: Rrole in /home/u460930808/public_html/CoolAdmin-master/index.php on line 128
+[04-Sep-2018 22:25:41 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 177
+[04-Sep-2018 22:25:44 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 309
+[04-Sep-2018 22:26:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 22:26:04 UTC] PHP Notice:  Undefined index: Rrole in /home/u460930808/public_html/CoolAdmin-master/index.php on line 128
+[04-Sep-2018 22:26:07 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 177
+[04-Sep-2018 22:26:10 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 309
+[04-Sep-2018 22:27:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[04-Sep-2018 22:27:31 UTC] PHP Notice:  Undefined index: Rrole in /home/u460930808/public_html/CoolAdmin-master/index.php on line 128
+[04-Sep-2018 22:27:34 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 177
+[04-Sep-2018 22:27:37 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 309
+[05-Sep-2018 13:54:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[05-Sep-2018 13:54:45 UTC] PHP Notice:  Undefined index: Rrole in /home/u460930808/public_html/CoolAdmin-master/index.php on line 128
+[05-Sep-2018 13:54:45 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 177
+[05-Sep-2018 13:54:45 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 309
+[05-Sep-2018 14:14:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[05-Sep-2018 14:14:30 UTC] PHP Notice:  Undefined index: Rrole in /home/u460930808/public_html/CoolAdmin-master/index.php on line 128
+[05-Sep-2018 14:14:30 UTC] PHP Notice:  Undefined variable: sequencedat in /home/u460930808/public_html/CoolAdmin-master/index.php on line 487
+[05-Sep-2018 14:14:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function toArray() on null in /home/u460930808/public_html/CoolAdmin-master/index.php:487
+Stack trace:
+#0 {main}
+  thrown in /home/u460930808/public_html/CoolAdmin-master/index.php on line 487
+[05-Sep-2018 17:25:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[05-Sep-2018 17:25:44 UTC] PHP Notice:  Undefined index: Rrole in /home/u460930808/public_html/CoolAdmin-master/index.php on line 128
+[05-Sep-2018 17:25:44 UTC] PHP Notice:  Undefined variable: sequencedat in /home/u460930808/public_html/CoolAdmin-master/index.php on line 487
+[05-Sep-2018 17:25:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function toArray() on null in /home/u460930808/public_html/CoolAdmin-master/index.php:487
+Stack trace:
+#0 {main}
+  thrown in /home/u460930808/public_html/CoolAdmin-master/index.php on line 487
+[05-Sep-2018 22:59:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[05-Sep-2018 22:59:44 UTC] PHP Notice:  Undefined index: Rrole in /home/u460930808/public_html/CoolAdmin-master/index.php on line 128
+[05-Sep-2018 22:59:44 UTC] PHP Notice:  Undefined variable: sequencedat in /home/u460930808/public_html/CoolAdmin-master/index.php on line 487
+[05-Sep-2018 22:59:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function toArray() on null in /home/u460930808/public_html/CoolAdmin-master/index.php:487
+Stack trace:
+#0 {main}
+  thrown in /home/u460930808/public_html/CoolAdmin-master/index.php on line 487
+[07-Sep-2018 11:32:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u460930808/public_html/CoolAdmin-master/navheaderp.php on line 45
+[07-Sep-2018 11:32:31 UTC] PHP Notice:  Undefined index: Rrole in /home/u460930808/public_html/CoolAdmin-master/index.php on line 128
+[07-Sep-2018 11:32:31 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 177
+[07-Sep-2018 11:32:31 UTC] PHP Notice:  Undefined index: role in /home/u460930808/public_html/CoolAdmin-master/index.php on line 309

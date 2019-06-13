@@ -1,0 +1,60 @@
+.img2{
+    vertical-align: middle;
+    border-style: none; 
+    width : 100%;
+  }
+  @font-face {
+      font-family: Cinematografica;
+      src: url('../fonts/cinematografica/Cinematografica-Bold-trial.ttf');
+  }
+  .btn-outline-info{
+      color: #fff;
+      background-color: #0000007a;
+      border-color: #fff;
+  
+      font-weight: bold ;
+  
+  }
+  .btn-outline-info:hover {
+      color: #17a2b8;
+      background-color: transparent;
+      background-image: none;
+      border-color: #17a2b8;
+  }
+  .testimonials {
+      padding-top: 7rem;
+      padding-bottom: 7rem;
+    }
+    
+    .testimonials .testimonial-item {
+      max-width: 18rem;
+    }
+    
+    .testimonials .testimonial-item img {
+      max-width: 12rem;
+      box-shadow: 0px 5px 5px 0px #adb5bd;
+    }
+  
+    .features-icons {
+      padding-top: 7rem;
+      padding-bottom: 1rem;
+    }
+    
+    .features-icons .features-icons-item {
+      max-width: 20rem;
+    }
+    
+    .features-icons .features-icons-item .features-icons-icon {
+      height: 7rem;
+    }
+    
+    .features-icons .features-icons-item .features-icons-icon i {
+      font-size: 4.5rem;
+    }
+    
+    .features-icons .features-icons-item:hover .features-icons-icon i {
+      font-size: 5rem;
+    }
+    .features-icons-icon img{
+      width: 45%;
+    }
